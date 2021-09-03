@@ -1,0 +1,15 @@
+{
+    "licenseKey": "contract_identifier",
+    "runtime": {
+        "arguments": "--v=1 --no-sandbox --ignore-certificate-errors",
+        "version": "20.91.62.4"
+    },
+    "startup_app": {
+        "name": "Assests",
+        "uuid": "33aa9062-9eb0-4875-b819-c90f38ef03eb",
+        "url": "http://localhost:4000/index.html",
+        "autoShow": true
+    },
+
+    "deleteRemovedAssets": true
+}
