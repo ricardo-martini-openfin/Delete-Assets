@@ -20,6 +20,7 @@ Basic app created to show the usage of `deleteRemovedAssets`.
    ```
    
     a) Make sure you run your server for the zip file. It needs to be in a different server than the application itself
+    
     b) Add this code above the `deleteRemovedAssets` key. Your manifest should look like this:
     
     ```
